@@ -1,0 +1,8 @@
+MVC
+MODELS - DATABASE
+VIEWS - HTML / FRONTEND / PRESENTATION
+CONTROLLERS - TAKES CONTROL BETWEEN MODELS AND VIEWS
+
+bin/rails server - this will start the server (bin/rails s)
+bin/rails console - this will start the console (bin/rails c)
+bin/rails generate - to generate? (bin/rails g)
