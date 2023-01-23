@@ -5,4 +5,8 @@ CONTROLLERS - TAKES CONTROL BETWEEN MODELS AND VIEWS
 
 bin/rails server - this will start the server (bin/rails s)
 bin/rails console - this will start the console (bin/rails c)
-bin/rails generate - to generate? (bin/rails g)
+bin/rails generate - to generate (bin/rails g)
+
+for one req:
+1. to return a json response (API)
+2. to render a HTML page

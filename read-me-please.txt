@@ -1,0 +1,3 @@
+link of the tutorial that i was following: https://www.youtube.com/watch?v=l3WXF2NfTM8
+
+I am taking a break from ruby on rails since i have no exact clue on what i am doing on this framework!  I have no idea when i will pick this back up but i will when i have time to sit down and watch this video, until then, see ya, Ruby on Rails!
